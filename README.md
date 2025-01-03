@@ -50,8 +50,6 @@ Hello! My name is **Behnam**.
 </div>
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Email](mailto:your-email@example.com)
+- [Telegram](https://t.me/sirUnchained)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sirUnchained&style=flat-square)
