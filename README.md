@@ -6,6 +6,7 @@ Hello! My name is **Behnam**.
 - 🚀 Then, I got acquainted with **JavaScript** and worked in the front-end field with **React.js**.
 - 💻 Currently, I'm building backends with **Node.js**.
 - 📊 I'm also familiar with **Python** and learning it for data science.
+- 👀 and **golang**? coming soon ...
 
 ## 🛠️ Tech Stacks
 
