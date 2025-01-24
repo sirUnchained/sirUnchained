@@ -1,29 +1,33 @@
 # Welcome to My Profile! 👋
+<div align="center">
+  <img width="60%" height="60%" src="https://e0.pxfuel.com/wallpapers/26/584/desktop-wallpaper-switching-from-javascript-to-golang-golang-gopher.jpg" />
+</div>
+<br/>
 
-Hello! My name is **Behnam**.
+Hello! My name is **Behnam**, and I am a fan of programming.
 
-- 🌟 I started programming with **C++** many years ago, I currently use it to solve most of my algorithm challenges.
-- 🚀 Then, I got acquainted with **JavaScript** and worked in the front-end field with **React.js**.
-- 💻 Currently, I'm building backends with **Node.js**.
-- 📊 I'm also familiar with **Python** and learning it for data science.
-- 👀 and **golang**? currently i can use it for small tasks.
+- 🌟 I started programming with **C++** many years ago, and I currently use it to solve most of my algorithm challenges.
+- 🚀 I then got acquainted with **JavaScript** and worked in the front-end field with **React.js**.
+- 💻 Currently, I am building backends with **Node.js**, and very soon **Golang**.
+- 📊 I am also familiar with **Python** and learning it for data science.
 
 ## 🛠️ Tech Stacks
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/NodeJs-advance-green?node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Go](https://img.shields.io/badge/GO-starter-red?go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Programming Languages
 ![C++](https://img.shields.io/badge/C++2020-advance-green?c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-advance-green?javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TS-advance-green?typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-middle-blue?python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/GO-starter-red?go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frameworks
 ![Express.js](https://img.shields.io/badge/ExpressJs-advance-green?express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Fastify](https://img.shields.io/badge/FastifyJs-advance-green?fastifyJs-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJs-middle-blue?nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Gin](https://img.shields.io/badge/gin-starter-red?go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-middle-blue?MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -51,9 +55,9 @@ Hello! My name is **Behnam**.
 ![Telegram](https://img.shields.io/badge/Telegraf-advance-green?Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 ## 📊 GitHub Stats
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=sirUnchained&show_icons=true&theme=merko" style="width:100%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirUnchained&hide_progress=true&theme=merko" style="width:100%;" />
+<div align="center" style="height:250px;" >
+    <img src="https://github-readme-stats.vercel.app/api?username=sirUnchained&show_icons=true&theme=dark" width="45%" height="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirUnchained&hide_progress=true&theme=dark" width="45%" height="100%" />
 </div>
 
 ## 🌐 Connect with Me
