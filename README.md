@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
-<div align="center">
-  <img width="60%" height="60%" src="https://e0.pxfuel.com/wallpapers/26/584/desktop-wallpaper-switching-from-javascript-to-golang-golang-gopher.jpg" />
+<div align="center" style="height:250px;">
+  <img width="90%" height="100%" src="https://e0.pxfuel.com/wallpapers/26/584/desktop-wallpaper-switching-from-javascript-to-golang-golang-gopher.jpg" />
 </div>
 <br/>
 
@@ -56,8 +56,8 @@ Hello! My name is **Behnam**, and I am a fan of programming.
 
 ## 📊 GitHub Stats
 <div align="center" style="height:250px;" >
-    <img src="https://github-readme-stats.vercel.app/api?username=sirUnchained&show_icons=true&theme=dark" width="45%" height="100%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirUnchained&hide_progress=true&theme=dark" width="45%" height="100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sirUnchained&show_icons=true&theme=dark" width="90%" height="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirUnchained&hide_progress=true&theme=dark" width="90%" height="100%" />
 </div>
 
 ## 🌐 Connect with Me
