@@ -38,6 +38,7 @@ Hello! My name is **Behnam**, and I am a fan of programming.
 ### ORM & Data
 ![Sequelize](https://img.shields.io/badge/Sequelize-advance-green?Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-middle-blue?TypeORM-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white)
+![Go](https://img.shields.io/badge/gorm-starter-red?go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-middle-blue?-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Messaging
