@@ -12,9 +12,11 @@ Hello! My name is **Behnam**, and I am a fan of programming.
 - 📊 I am also familiar with **Python** and learning it for data science.
 
 ## 🛠️ Tech Stacks
+<!--
 <div align="center" >
     <img src="https://github.com/sirUnchained/sirUnchained/blob/main/InShot_%DB%B2%DB%B0%DB%B2%DB%B5%DB%B0%DB%B1%DB%B2%DB%B9_%DB%B1%DB%B0%DB%B5%DB%B7%DB%B0%DB%B9%DB%B6%DB%B2%DB%B6.gif" width="90%" height="100%" />
 </div>
+-->
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/NodeJs-advance-green?node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -58,10 +60,12 @@ Hello! My name is **Behnam**, and I am a fan of programming.
 ![Swagger](https://img.shields.io/badge/Swagger-middle-blue?-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegraf-advance-green?Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 <br/>
+<!--
 <div align="center" style="height:250px;">
   <img width="90%" height="100%" src="https://github.com/sirUnchained/sirUnchained/blob/main/InShot_%DB%B2%DB%B0%DB%B2%DB%B5%DB%B0%DB%B1%DB%B3%DB%B1_%DB%B1%DB%B5%DB%B2%DB%B5%DB%B4%DB%B7%DB%B5%DB%B4%DB%B0.gif" />
 </div>
 <br/>
+-->
 
 ## 📊 GitHub Stats
 <div align="center" style="height:250px;" >
