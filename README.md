@@ -20,10 +20,12 @@ Hello! My name is **Behnam**, and I am a fan of programming.
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/NodeJs-advance-green?node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/GO-starter-red?go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/GO-middle-blue?go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Programming Languages
 ![C++](https://img.shields.io/badge/C++2020-advance-green?c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-advance-green?c-%2300599C.svgstyle=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-starter-red?rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-advance-green?javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TS-advance-green?typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-middle-blue?python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,7 +34,7 @@ Hello! My name is **Behnam**, and I am a fan of programming.
 ![Express.js](https://img.shields.io/badge/ExpressJs-advance-green?express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Fastify](https://img.shields.io/badge/FastifyJs-advance-green?fastifyJs-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJs-middle-blue?nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Gin](https://img.shields.io/badge/gin-starter-red?go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-middle-blue?go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-middle-blue?MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -43,7 +45,7 @@ Hello! My name is **Behnam**, and I am a fan of programming.
 ### ORM & Data
 ![Sequelize](https://img.shields.io/badge/Sequelize-advance-green?Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-middle-blue?TypeORM-FE0803.svg?style=for-the-badge&logo=typeorm&logoColor=white)
-![Go](https://img.shields.io/badge/gorm-starter-red?go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Gorm-middle-blue?go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-middle-blue?-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Messaging
