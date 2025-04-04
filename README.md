@@ -11,6 +11,13 @@ Hi! My name is **Behnam**, you might say that i am bad ... But i really - im qui
 - 💻 Currently, I am building backends with **Node.js**, and very soon **Golang**.
 - 📊 I am also familiar with **Python** and learning it for data science.
 
+
+<div align="center" >
+  <img width="90%" height="100%" src="https://github.com/sirUnchained/sirUnchained/blob/main/bill-cipher-tick-tock.gif" />
+  AND IT'S SO NICE TO MEET YOU!
+</div>
+
+
 ## 🛠️ Tech Stacks
 <!--
 <div align="center" >
