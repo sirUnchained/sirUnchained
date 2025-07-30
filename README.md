@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 <div align="center" style="height:250px;">
-  <img width="90%" height="100%" src="https://github.com/sirUnchained/sirUnchained/blob/main/go-vs-js.jpg" />
+  <img width="90%" height="100%" src="https://github.com/sirUnchained/sirUnchained/blob/main/InShot_%DB%B2%DB%B0%DB%B2%DB%B5%DB%B0%DB%B7%DB%B3%DB%B1_%DB%B0%DB%B2%DB%B4%DB%B5%DB%B3%DB%B2%DB%B8%DB%B6%DB%B4.gif" />
 </div>
 <br/>
 
@@ -8,8 +8,9 @@ Hi! My name is **Behnam**, you might say that i am bad ... But i really - im qui
 
 - 🌟 I started programming with **C++** many years ago, and I currently use it to solve most of my algorithm challenges.
 - 🚀 I then got acquainted with **JavaScript** and worked in the front-end field with **React.js**.
-- 💻 Currently, I am building backends with **Node.js**, and very soon **Golang**.
-- 📊 I am also familiar with **Python** and learning it for data science.
+- 📗 I have also build backends using **Node.js** and **Golang**.
+- 💻 Currently, I am working on embedded systems using **Rust** and **C**.
+- 📊 After all i use **Python** for ML.
 
 
 <div align="center" >
