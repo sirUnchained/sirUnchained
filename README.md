@@ -1,28 +1,43 @@
-# Welcome to My Profile! 👋
-<div align="center" style="height:250px;">
-  <img width="90%" height="100%" src="https://github.com/sirUnchained/sirUnchained/blob/main/InShot_%DB%B2%DB%B0%DB%B2%DB%B5%DB%B0%DB%B7%DB%B3%DB%B1_%DB%B0%DB%B8%DB%B3%DB%B3%DB%B2%DB%B0%DB%B0%DB%B0%DB%B0.gif" />
-</div>
-<br/>
+# 👋 Welcome!
 
-Hi! My name is **Behnam**, you might say that i am bad ... But i really - im quite nice if you look into my eyes.
-
-- 🌟 I started programming with **C++** many years ago, and I currently use it to solve most of my algorithm challenges.
-- 🚀 I then got acquainted with **JavaScript** and worked in the front-end field with **React.js**.
-- 📗 I have also build backends using **Node.js** and **Golang**.
-- 💻 Currently, I am working on embedded systems using **Rust** and **C**.
-- 📊 After all i use **Python** for ML.
-
+Hi! My name is Behnam, you might say that i am bad ... But i really - im quite nice if you look into my eyes.
 
 <div align="center" >
   <img width="90%" height="100%" src="https://github.com/sirUnchained/sirUnchained/blob/main/bill-cipher-tick-tock.gif" />
   <p>AND IT'S SO NICE TO MEET YOU!</p>
 </div>
 
-## 📊 GitHub Stats
-<div align="center" style="height:250px;" >
-    <img src="https://github-readme-stats.vercel.app/api?username=sirUnchained&show_icons=true&theme=dark" width="90%" height="100%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirUnchained&hide_progress=true&theme=dark" width="90%" height="100%" />
-</div>
+---
+
+## 🌌 About Me
+
+Here I let you to know something about me: 
+- 🧠 C/C++ Explorer — Began my journey years ago; still solving algorithmic puzzles in C++ and I start learning for building UI tools with Qt.
+- ⚡ JavaScript & React.js Developer — Spent a good amount of time building rich front-end experiences.
+- 🛠 Backend Engineer — Designed and developed scalable APIs with Node.js and Golang.
+- 🖥️ Low-Level Fan — Debuggers, memory layouts, embedded work … if it’s close to the metal, I’m interested.
+- 🤖 ML Enthusiast — Mostly using Python for machine learning, but I also enjoy working with R for data analysis.
+
+> “Data! Data! Data! I can't make bricks without clay.”
+> — *Arthur Conan Doyle*
+
+---
+
+## 📊 GitHub Summary
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirunchained&theme=city_lights)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirunchained&theme=city_lights)
+
+## 😁 Fun Fact
+
+> I can use c/c++ in JavaScript! you say how? here you see:
+```javascript
+for(let c = 0; c < 5; c++) console.log("see?");
+```
+> (C++ never forgave me… but I forgave myself 😎)
+
+---
 
 ## 🌐 Connect with Me
 <div align="center" style="height:250px;">
