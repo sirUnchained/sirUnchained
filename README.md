@@ -25,12 +25,17 @@ Here I let you to know something about me:
 
 ## 📊 GitHub Summary
 
-<div><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sirunchained&theme=city_lights" /></div>
+<div align="center">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sirunchained&theme=city_lights" />
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sirunchained&theme=city_lights&utcOffset=8" />
+</div>
 <div align="center" >
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirunchained&theme=city_lights" width="49%"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sirunchained&theme=city_lights" width="49%"/>
 </div>
-<div><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirunchained&theme=city_lights" /></div>
+<div align="center">
+  <img width="99%" height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirunchained&theme=city_lights" />
+</div>
 
 <br />
 
