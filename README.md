@@ -25,17 +25,28 @@ Here I let you to know something about me:
 
 ## 📊 GitHub Summary
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirunchained&theme=city_lights)
+<div><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sirunchained&theme=city_lights" /></div>
+<div align="center" >
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirunchained&theme=city_lights" width="49%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sirunchained&theme=city_lights" width="49%"/>
+</div>
+<div><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirunchained&theme=city_lights" /></div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sirunchained&theme=city_lights)
+<br />
+
+> “The computer was born to solve problems that did not exist before.”
+> — *Bill Gates*
+
+---
 
 ## 😁 Fun Fact
 
-> I can use c/c++ in JavaScript! you say how? here you see:
+I can use C/C++ in JavaScript! you say how? here you see:
 ```javascript
-for(let c = 0; c < 5; c++) console.log("see?");
+for(let C = 0; C < 5; C++) console.log("see?");
 ```
-> (C++ never forgave me… but I forgave myself 😎)
+> C++ never forgave me … but I forgave myself 😎
+> — *Behnam*
 
 ---
 
@@ -46,9 +57,11 @@ for(let c = 0; c < 5; c++) console.log("see?");
     <a href="https://www.instagram.com/sirunchained/"><img src="https://img.shields.io/badge/Instagram-sirunchained-pink?Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/><a/>
     <a href="https://github.com/sirunchained"><img src="https://img.shields.io/badge/Github-sirunchained-black?github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/><a/>
     <a href=""><img src="https://img.shields.io/badge/Discord-sirunchained-purple?Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/><a/>
-<div/>
-  
-<br/>
-<br/>
+
+<br />
+<br />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sirUnchained&style=flat-square)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=290&lines=Thanks+for+Reading!+%E2%98%95%E2%9A%A1" />
+</div>
