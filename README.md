@@ -47,7 +47,7 @@ Here I let you to know something about me:
 ## 😁 Fun Fact
 
 I can use C/C++ in JavaScript! You may ask how? Here you see:
-```javascript؟
+```javascript
 for(let C = 0; C < 5; C++) console.log("see?");
 ```
 > C++ never forgave me … but I forgave myself 😎
