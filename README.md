@@ -34,7 +34,7 @@ Here I let you to know something about me:
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sirunchained&theme=city_lights" width="49%"/>
 </div>
 <div align="center">
-  <img width="99%" height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirunchained&theme=city_lights" />
+  <img width="100%" height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirunchained&theme=city_lights" />
 </div>
 
 <br />
@@ -46,8 +46,8 @@ Here I let you to know something about me:
 
 ## 😁 Fun Fact
 
-I can use C/C++ in JavaScript! you say how? here you see:
-```javascript
+I can use C/C++ in JavaScript! You may ask how? Here you see:
+```javascript؟
 for(let C = 0; C < 5; C++) console.log("see?");
 ```
 > C++ never forgave me … but I forgave myself 😎
