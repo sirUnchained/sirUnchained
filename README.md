@@ -59,9 +59,7 @@ for(let C = 0; C < 5; C++) console.log("see?");
 <div align="center" style="height:250px;">
     <a href="https://t.me/sirunchained"><img src="https://img.shields.io/badge/Telegram-sirunchained-blue?Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/><a/>
     <a href="mailto:bbehnam3831@gmail.com"><img src="https://img.shields.io/badge/Email-bbehnam3831-red?Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
-    <a href="https://www.instagram.com/sirunchained/"><img src="https://img.shields.io/badge/Instagram-sirunchained-pink?Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/><a/>
     <a href="https://github.com/sirunchained"><img src="https://img.shields.io/badge/Github-sirunchained-black?github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/><a/>
-    <a href=""><img src="https://img.shields.io/badge/Discord-sirunchained-purple?Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/><a/>
 
 <br />
 <br />
