@@ -116,6 +116,7 @@ Some may be completely unnecessary.
 But almost all of them started with the same question:
 
 > **"What happens if I actually build it myself?"**
+> — *Behnam*
 
 ---
 
@@ -144,11 +145,7 @@ But almost all of them started with the same question:
 
 ## 😁 Fun Fact
 
-I can use **C/C++ in JavaScript**.
-
-You may ask how.
-
-Here you see:
+I can use **C/C++ in JavaScript**, You may ask how ... Here you see:
 
 ```javascript
 for (let C = 0; C < 5; C++) {
@@ -188,6 +185,6 @@ for (let C = 0; C < 5; C++) {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sirUnchained\&style=flat-square)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=300px&lines=Thanks+for+Reading!+%E2%98%95%E2%9A%A1;Keep+Exploring+...;Keep+Building+...;Keep+Breaking+Things." display="block" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=300px&lines=Thanks+for+Reading!+%E2%98%95%E2%9A%A1;Keep+Exploring+...;Keep+Building+...;Keep+Breaking+Things+..." display="block" />
 
 </div>
