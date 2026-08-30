@@ -85,7 +85,7 @@ I want to understand **what is actually happening underneath them.**
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,go,javascript,r" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,go,typescript" />
 
 ### AI / Machine Learning
 
@@ -93,7 +93,7 @@ I want to understand **what is actually happening underneath them.**
 
 ### Development
 
-<img src="https://skillicons.dev/icons?i=linux,git,docker,nodejs,react,qt" />
+<img src="https://skillicons.dev/icons?i=linux,git,docker,nodejs,qt" />
 
 </div>
 
@@ -188,6 +188,6 @@ for (let C = 0; C < 5; C++) {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sirUnchained\&style=flat-square)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=250&lines=Thanks+for+Reading!+%E2%98%95%E2%9A%A1;Keep+Exploring...;Keep+Building...;Keep+Breaking+Things." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=300px&lines=Thanks+for+Reading!+%E2%98%95%E2%9A%A1;Keep+Exploring+...;Keep+Building+...;Keep+Breaking+Things." display="block" />
 
 </div>
