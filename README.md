@@ -36,39 +36,30 @@ My learning path is currently centered around a few interconnected areas:
 
 ```mermaid
 flowchart TD
-    ROOT["🌌 My Technical Journey"]
+    ROOT["🌌 Software & AI Engineer"]
 
-    ROOT --> AI["🤖 Artificial Intelligence"]
-    ROOT --> LLM["🧠 LLM Engineering"]
+    ROOT --> AI["🤖 AI / Models"]
     ROOT --> SYS["⚙️ Systems"]
-    ROOT --> SWE["🌐 Software Engineering"]
+    ROOT --> ENG["🌐 Engineering"]
 
-    AI --> ML["Machine Learning"]
-    ML --> DL["Deep Learning"]
-    DL --> RL["Reinforcement Learning"]
-    DL --> LLMs["LLMs"]
+    AI --> ML["ML"]
+    AI --> LLM["LLM"]
+    AI --> VLM["VLM"]
 
-    LLM --> TRANS["Transformers"]
-    TRANS --> PRE["Pretraining"]
-    PRE --> FT["Fine-tuning"]
-    FT --> RAG["RAG"]
-    RAG --> EVAL["Evaluation"]
-    EVAL --> RLHF["RLHF"]
-
+    SYS --> LINUX["Linux"]
     SYS --> CPP["C / C++"]
-    CPP --> LINUX["Linux"]
-    LINUX --> CUDA["CUDA"]
-    CUDA --> GPU["GPU Programming"]
-    LINUX --> DIST["Distributed Computing"]
+    SYS --> CUDA["CUDA / GPU"]
+    SYS --> DIST["Distributed Systems"]
 
-    SWE --> BACK["Backend"]
-    BACK --> API["APIs"]
-    API --> SYSTEMS["Systems"]
-    SYSTEMS --> INFRA["AI Infrastructure"]
+    ENG --> BACK["Backend"]
+    ENG --> API["APIs"]
+    ENG --> INFRA["AI Infrastructure"]
 
-    GPU --> INFRA
-    DIST --> INFRA
-    LLMs --> INFRA
+    ROOT --> PERF["⚡ Performance"]
+
+    PERF --> TRAIN["Distributed Training"]
+    PERF --> INFER["Inference"]
+    PERF --> SERVE["Serving & Optimization"]
 ```
 
 The goal isn't just to use AI libraries.
